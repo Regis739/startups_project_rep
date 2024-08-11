@@ -17,7 +17,7 @@ startups_project.ipynb
 - f1-score
 - LogisticRegression
 - BalancedRandomForestClassifier
-- CatBoostClassifier
+- LGBMClassifier
 - SHAP
 
 # Вывод
@@ -44,7 +44,7 @@ Some statistics state that the failure rate for new startups is currently 90%, h
 - f1-score
 - LogisticRegression
 - BalancedRandomForestClassifier
-- CatBoostClassifier
+- LGBMClassifier
 - SHAP
 
 # Conclusion
